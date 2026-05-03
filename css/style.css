@@ -1,0 +1,283 @@
+:root {
+    --primary: #b45309; /* Amber 700 */
+    --bg-color: #f5f5f4; /* Stone 100 */
+    --card-white: #ffffff;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 450px;
+    text-align: center;
+}
+
+/* El efecto de bordes troquelados (piquitos) */
+.cut-edge {
+    clip-path: polygon(
+        0% 5%, 5% 0%, 10% 5%, 15% 0%, 20% 5%, 25% 0%, 30% 5%, 35% 0%, 40% 5%, 45% 0%, 50% 5%, 55% 0%, 60% 5%, 65% 0%, 70% 5%, 75% 0%, 80% 5%, 85% 0%, 90% 5%, 95% 0%, 100% 5%, 
+        100% 95%, 95% 100%, 90% 95%, 85% 100%, 80% 95%, 75% 100%, 70% 95%, 65% 100%, 60% 95%, 55% 100%, 50% 95%, 45% 100%, 40% 95%, 35% 100%, 30% 95%, 25% 100%, 20% 95%, 15% 100%, 10% 95%, 5% 100%, 0% 95%
+    );
+}
+
+.card {
+    position: relative;
+    background: var(--card-white);
+    padding: 3rem 2rem;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    overflow: hidden;
+    border-top: 5px solid var(--primary);
+    z-index: 1; /* Capa base */
+}
+
+.card-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; /* LA CLAVE: Lo mandamos al fondo absoluto */
+    opacity: 0.12;
+    background-size: cover;
+    background-position: center;
+    pointer-events: none; /* LA CLAVE 2: Hace que la imagen sea "fantasma" para el ratón */
+}
+
+.card-content {
+    position: relative;
+    z-index: 1;
+}
+
+.day-label {
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: var(--primary);
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.title {
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    font-size: 1.8rem;
+    margin: 1rem 0;
+    color: #292524;
+}
+
+.divider {
+    width: 50px;
+    height: 2px;
+    background: #e7e5e4;
+    margin: 1.5rem auto;
+}
+
+.message {
+    font-size: 1.15rem;
+    line-height: 1.6;
+    color: #57534e;
+    font-weight: 300;
+}
+
+/* Botones */
+.navigation {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btn {
+    padding: 0.6rem 1.2rem;
+    border: none;
+    background: #e7e5e4;
+    cursor: pointer;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+
+.btn:hover:not(:disabled) { background: #d6d3d1; }
+.btn-primary { background: var(--primary); color: white; }
+.btn:disabled { opacity: 0.3; cursor: not-allowed; }
+
+/* El versículo: Protagonista y elegante */
+.verse {
+    font-family: 'Georgia', serif;
+    font-style: italic;
+    font-size: 1.25rem;
+    color: #44403c;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+}
+
+/* La cita: Discreta pero clara */
+.reference {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #b45309; /* El color ámbar que usamos */
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 2rem;
+}
+
+/* La reflexión: Suave y calmada */
+.reflection {
+    font-size: 1rem;
+    color: #57534e;
+    font-weight: 300;
+    border-top: 1px solid #f5f5f4;
+    padding-top: 1rem;
+}
+
+/* Eliminamos el troquelado y usamos un diseño de tarjeta limpia */
+.card {
+    position: relative;
+    background: #ffffff;
+    padding: 3.5rem 2rem;
+    border-radius: 12px; /* Bordes suaves, no troquelados */
+    box-shadow: 0 15px 35px rgba(0,0,0,0.05); /* Sombra muy suave */
+    overflow: hidden;
+    border-top: 6px solid #b45309;
+    transition: transform 0.3s ease;
+}
+
+.date-label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: #b45309;
+    text-transform: uppercase; /* Opcional: le da un toque más formal */
+    letter-spacing: 1.5px;
+    margin-bottom: 0.75rem;
+    opacity: 0.8;
+}
+
+/* Zona de botones para compartir */
+.share-zone {
+    position: relative; /* Necesario para que respete el z-index */
+    z-index: 10;        /* Por encima de todo */
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    border-top: 1px solid #f5f5f4;
+    padding-top: 1.5rem;
+}
+
+.share-btn {
+    position: relative;
+    z-index: 11;
+    cursor: pointer !important; /* Forzamos el cursor de mano */
+    pointer-events: auto;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #e7e5e4;
+    background: white;
+    color: #78716c; /* Color piedra suave por defecto */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    font-size: 0.8rem;
+    font-weight: bold;
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.share-btn svg {
+    width: 22px;
+    height: 22px;
+    display: block;
+}
+
+.share-btn:active {
+    transform: scale(0.9);
+    background-color: #f5f5f4;
+}
+
+.share-btn:hover {
+    background: #f5f5f4;
+    transform: translateY(-2px);
+    
+}
+
+.wa:hover {
+    background-color: #25D366;
+    color: white;
+    border-color: #25D366;
+}
+
+.fb:hover {
+    background-color: #1877F2;
+    color: white;
+    border-color: #1877F2;
+}
+
+.link:hover {
+    background-color: #b45309; /* Color ámbar de tu marca */
+    color: white;
+    border-color: #b45309;
+}
+
+
+/* Estilos para la Identidad del Ministerio */
+.app-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 0 1rem;
+}
+
+.brand-name {
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: #292524;
+    letter-spacing: -1px;
+    margin: 0;
+}
+
+.brand-name .location {
+    color: #b45309; /* El color ámbar que identifica la marca */
+    font-weight: 400;
+}
+
+.full-name {
+    font-size: 0.75rem;
+    font-weight: bold;
+    color: #78716c;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 0.2rem;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 1.3;
+}
+
+/* Firma dentro de la tarjeta */
+.card-footer {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    opacity: 0.5;
+}
+
+.mird-stamp {
+    font-size: 0.7rem;
+    font-weight: 700;
+    color: #78716c;
+    border: 1px solid #e7e5e4;
+    padding: 4px 12px;
+    border-radius: 20px;
+    text-transform: uppercase;
+}
+
+

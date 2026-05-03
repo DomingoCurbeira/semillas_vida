@@ -1,0 +1,1443 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Origen de la Luz",
+    "versiculo": "Y dijo Dios: Sea la luz; y fue la luz.",
+    "cita": "Génesis 1:3",
+    "reflexion": "Hoy es un nuevo comienzo. Deja que la claridad de este mensaje ilumine tus decisiones.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Provisión Total",
+    "versiculo": "Jehová es mi pastor; nada me faltará.",
+    "cita": "Salmos 23:1",
+    "reflexion": "No caminas solo ni en escasez; tienes un guía que conoce exactamente lo que tu alma necesita.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Descanso para el Alma",
+    "versiculo": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "cita": "Mateo 11:28",
+    "reflexion": "A veces la mayor victoria es simplemente soltar la carga y confiar en un descanso superior.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Fortaleza Interior",
+    "versiculo": "Todo lo puedo en Cristo que me fortalece.",
+    "cita": "Filipenses 4:13",
+    "reflexion": "Tu capacidad no se mide por tus fuerzas, sino por la fuente que te sostiene.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "La Esencia del Amor",
+    "versiculo": "El amor es sufrido, es benigno; el amor no tiene envidia, el amor no es jactancioso, no se envanece.",
+    "cita": "1 Corintios 13:4",
+    "reflexion": "Que tus acciones de hoy sean filtradas por la paciencia y la bondad.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Confianza Radical",
+    "versiculo": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.",
+    "cita": "Proverbios 3:5",
+    "reflexion": "Incluso cuando no entiendas el mapa, confía en quien trazó el camino.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "Alas de Esperanza",
+    "versiculo": "Pero los que esperan a Jehová tendrán nuevas fuerzas; levantarán alas como las águilas.",
+    "cita": "Isaías 40:31",
+    "reflexion": "La espera no es tiempo perdido, es el tiempo donde se fortalecen tus alas.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "Valentía Divina",
+    "versiculo": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes.",
+    "cita": "Josué 1:9",
+    "reflexion": "El coraje no es la falta de miedo, es avanzar sabiendo que no vas solo.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Refugio Inmovible",
+    "versiculo": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+    "cita": "Salmos 46:1",
+    "reflexion": "Cuando el mundo exterior es un caos, tu paz interior tiene un lugar seguro donde esconderse.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Misericordias Nuevas",
+    "versiculo": "Nuevas son cada mañana; grande es tu fidelidad.",
+    "cita": "Lamentaciones 3:23",
+    "reflexion": "No cargues con los errores de ayer; hoy tienes una hoja en blanco y una nueva oportunidad.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Propósito en Todo",
+    "versiculo": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+    "cita": "Romanos 8:28",
+    "reflexion": "Incluso los momentos difíciles están trabajando a tu favor en el cuadro completo de tu vida.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Prioridades del Reino",
+    "versiculo": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas.",
+    "cita": "Mateo 6:33",
+    "reflexion": "Pon lo más importante primero y verás cómo el resto de las piezas encajan solas.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 13,
+    "titulo": "Luz en el Sendero",
+    "versiculo": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+    "cita": "Salmos 119:105",
+    "reflexion": "No necesitas ver el destino final para dar el siguiente paso con seguridad.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Paz Sobrenatural",
+    "versiculo": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da.",
+    "cita": "Juan 14:27",
+    "reflexion": "La paz del mundo depende de las circunstancias; la tuya depende de una promesa inmutable.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Sabiduría Disponible",
+    "versiculo": "Y si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente.",
+    "cita": "Santiago 1:5",
+    "reflexion": "Si no sabes qué hacer, guarda silencio y pide dirección; la respuesta llegará con claridad.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Fruto del Espíritu",
+    "versiculo": "Mas el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe...",
+    "cita": "Gálatas 5:22",
+    "reflexion": "Lo que sale de ti en momentos de presión revela qué es lo que has estado cultivando.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "Gracia Suficiente",
+    "versiculo": "Porque por gracia sois salvos por medio de la fe; y esto no de vosotros, pues es don de Dios.",
+    "cita": "Efesios 2:8",
+    "reflexion": "No tienes que ganar lo que ya te fue dado por puro amor.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "Certeza de lo Invisible",
+    "versiculo": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "cita": "Hebreos 11:1",
+    "reflexion": "Creer es ver con los ojos del corazón antes de que las manos puedan tocar la realidad.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 19,
+    "titulo": "Cuidado Personal",
+    "versiculo": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "cita": "1 Pedro 5:7",
+    "reflexion": "Tus problemas no son insignificantes para quien cuenta cada cabello de tu cabeza.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 20,
+    "titulo": "Espíritu de Poder",
+    "versiculo": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+    "cita": "2 Timoteo 1:7",
+    "reflexion": "Tienes las herramientas internas para enfrentar cualquier desafío con equilibrio y fuerza.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 21,
+    "titulo": "Renovación Mental",
+    "versiculo": "No os conforméis a este siglo, sino transformaos por medio de la renovación de vuestro entendimiento.",
+    "cita": "Romanos 12:2",
+    "reflexion": "Tu vida cambia cuando cambias tu forma de pensar. Filtra lo que dejas entrar en tu mente hoy.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 22,
+    "titulo": "La Verdadera Libertad",
+    "versiculo": "Y conoceréis la verdad, y la verdad os hará libres.",
+    "cita": "Juan 8:32",
+    "reflexion": "La libertad no es hacer lo que uno quiere, sino tener la claridad para elegir lo que es bueno.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 23,
+    "titulo": "Un Corazón Alegre",
+    "versiculo": "El corazón alegre constituye buen remedio; mas el espíritu triste seca los huesos.",
+    "cita": "Proverbios 17:22",
+    "reflexion": "La alegría es una medicina interna. Busca un motivo para sonreír, incluso en las tareas pequeñas.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 24,
+    "titulo": "Paciencia en la Cosecha",
+    "versiculo": "Y no nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos.",
+    "cita": "Gálatas 6:9",
+    "reflexion": "No juzgues tu día por lo que cosechas, sino por las semillas que plantas con esfuerzo.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 25,
+    "titulo": "Palabras de Vida",
+    "versiculo": "La muerte y la vida están en poder de la lengua, y el que la ama comerá de sus frutos.",
+    "cita": "Proverbios 18:21",
+    "reflexion": "Usa tus palabras hoy para construir puentes y dar ánimo; lo que digas creará tu entorno.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 26,
+    "titulo": "El Valor de la Amistad",
+    "versiculo": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia.",
+    "cita": "Proverbios 17:17",
+    "reflexion": "Valora a quienes caminan contigo. Una palabra de aprecio puede ser el refugio que alguien necesita.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 27,
+    "titulo": "Justicia y Paz",
+    "versiculo": "Y el efecto de la justicia será paz; y la labor de la justicia, reposo y seguridad para siempre.",
+    "cita": "Isaías 32:17",
+    "reflexion": "Hacer lo correcto trae una tranquilidad que no se puede comprar. Busca la integridad hoy.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 28,
+    "titulo": "Humildad y Sabiduría",
+    "versiculo": "Cuando viene la soberbia, viene también la deshonra; mas con los humildes está la sabiduría.",
+    "cita": "Proverbios 11:2",
+    "reflexion": "Aprender de los demás es el camino más rápido para crecer. Mantén un corazón enseñable.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 29,
+    "titulo": "Cercanía en el Dolor",
+    "versiculo": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
+    "cita": "Salmos 34:18",
+    "reflexion": "Tus heridas no te alejan de Dios, al contrario, atraen Su consuelo más profundo.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 30,
+    "titulo": "Visión de Futuro",
+    "versiculo": "Porque yo sé los pensamientos que tengo acerca de vosotros... pensamientos de paz, y no de mal.",
+    "cita": "Jeremías 29:11",
+    "reflexion": "Incluso si el presente es confuso, hay un diseño de bienestar trazado para tu vida.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 31,
+    "titulo": "Firmeza en la Fe",
+    "versiculo": "Estad, pues, firmes, ceñidos vuestros lomos con la verdad, y vestidos con la coraza de justicia.",
+    "cita": "Efesios 6:14",
+    "reflexion": "Protege tus valores y mantente fiel a lo que sabes que es verdad, sin importar las modas.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 32,
+    "titulo": "Llamados a la Paz",
+    "versiculo": "Y la paz de Dios gobierne en vuestros corazones... y sed agradecidos.",
+    "cita": "Colosenses 3:15",
+    "reflexion": "Deja que la gratitud sea el árbitro de tus emociones hoy; ella siempre elige la paz.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 33,
+    "titulo": "Luz en el Mundo",
+    "versiculo": "Vosotros sois la luz del mundo; una ciudad asentada sobre un monte no se puede esconder.",
+    "cita": "Mateo 5:14",
+    "reflexion": "No subestimes el impacto de un pequeño acto de bondad; puede ser la luz de alguien más.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 34,
+    "titulo": "Pedir y Recibir",
+    "versiculo": "Pedid, y se os dará; buscad, y hallaréis; llamad, y se os abrirá.",
+    "cita": "Mateo 7:7",
+    "reflexion": "La oración y la intención son acciones poderosas. No dejes de buscar lo que es noble.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 35,
+    "titulo": "La Vid y los Pámpanos",
+    "versiculo": "Yo soy la vid, vosotros los pámpanos; el que permanece en mí, y yo en él, este lleva mucho fruto.",
+    "cita": "Juan 15:5",
+    "reflexion": "Mantente conectado a tus valores espirituales; es la única forma de que tu esfuerzo sea productivo.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 36,
+    "titulo": "Sin Temor al Mal",
+    "versiculo": "Aunque ande en valle de sombra de muerte, no temeré mal alguno, porque tú estarás conmigo.",
+    "cita": "Salmos 23:4",
+    "reflexion": "La seguridad no es la ausencia de peligro, sino la certeza de una compañía invencible.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 37,
+    "titulo": "Bondad y Misericordia",
+    "versiculo": "Ciertamente el bien y la misericordia me seguirán todos los días de mi vida.",
+    "cita": "Salmos 23:6",
+    "reflexion": "No persigas las bendiciones; camina en integridad y ellas te alcanzarán a ti.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 38,
+    "titulo": "Poder en la Debilidad",
+    "versiculo": "Bástate mi gracia; porque mi poder se perfecciona en la debilidad.",
+    "cita": "2 Corintios 12:9",
+    "reflexion": "Donde terminan tus fuerzas, comienza la oportunidad para ver algo extraordinario suceder.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 39,
+    "titulo": "Vigilancia y Oración",
+    "versiculo": "Velad y orad, para que no entréis en tentación; el espíritu a la verdad está dispuesto, pero la carne es débil.",
+    "cita": "Mateo 26:41",
+    "reflexion": "Mantén la atención despierta. Un momento de reflexión puede evitar muchas horas de pesar.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 40,
+    "titulo": "Consuelo Divino",
+    "versiculo": "Como aquel a quien consuela su madre, así os consolaré yo a vosotros.",
+    "cita": "Isaías 66:13",
+    "reflexion": "Hay una ternura disponible para ti hoy que puede sanar hasta el cansancio más profundo.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 41,
+    "titulo": "Sembrar en Justicia",
+    "versiculo": "Sembrad para vosotros en justicia, segad para vosotros en misericordia.",
+    "cita": "Oseas 10:12",
+    "reflexion": "Cada acción justa es una inversión en tu propia paz futura. Siembra con integridad.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 42,
+    "titulo": "Caminar en Integridad",
+    "versiculo": "El que camina en integridad anda confiado; mas el que pervierte sus caminos será quebrantado.",
+    "cita": "Proverbios 10:9",
+    "reflexion": "La honestidad es el camino más corto hacia una conciencia tranquila y un sueño reparador.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 43,
+    "titulo": "La Escalera de la Fe",
+    "versiculo": "Añadid a vuestra fe virtud; a la virtud, conocimiento; al conocimiento, dominio propio.",
+    "cita": "2 Pedro 1:5-6",
+    "reflexion": "El crecimiento espiritual es un proceso paso a paso. No intentes saltarte los escalones.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 44,
+    "titulo": "El Valor del Trabajo",
+    "versiculo": "Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres.",
+    "cita": "Colosenses 3:23",
+    "reflexion": "Incluso las tareas más sencillas cobran un valor eterno cuando se hacen con amor y excelencia.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 45,
+    "titulo": "Ríos de Agua Viva",
+    "versiculo": "El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.",
+    "cita": "Juan 7:38",
+    "reflexion": "Tu vida no es solo para ser llenada, sino para ser un canal de bendición para otros.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 46,
+    "titulo": "Pueblo Amado",
+    "versiculo": "Porque tú eres pueblo santo para Jehová tu Dios; Jehová tu Dios te ha escogido.",
+    "cita": "Deuteronomio 7:6",
+    "reflexion": "Tu identidad no depende de lo que otros dicen de ti, sino de quién te ha elegido.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 47,
+    "titulo": "Sabiduría para Hablar",
+    "versiculo": "Sea vuestra palabra siempre con gracia, sazonada con sal.",
+    "cita": "Colosenses 4:6",
+    "reflexion": "Que tus conversaciones de hoy dejen un buen sabor de boca en quienes te escuchan.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 48,
+    "titulo": "Permanecer en el Amor",
+    "versiculo": "Como el Padre me ha amado, así también yo os hemos amado; permaneced en mi amor.",
+    "cita": "Juan 15:9",
+    "reflexion": "No busques el amor en lugares vacíos; ya estás sumergido en una fuente inagotable.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 49,
+    "titulo": "Paz que Sobrepasa",
+    "versiculo": "Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones.",
+    "cita": "Filipenses 4:7",
+    "reflexion": "Hay una calma disponible para ti que la lógica humana no puede explicar.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 50,
+    "titulo": "El Tesoro del Corazón",
+    "versiculo": "Porque donde esté vuestro tesoro, allí estará también vuestro corazón.",
+    "cita": "Mateo 6:21",
+    "reflexion": "Revisa a qué le estás dedicando tu tiempo y energía hoy; ese es tu verdadero tesoro.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 51,
+    "titulo": "Peticiones con Fe",
+    "versiculo": "Y todo lo que pidiereis en oración, creyendo, lo recibiréis.",
+    "cita": "Mateo 21:22",
+    "reflexion": "Acompaña tus palabras con la convicción de que estás siendo escuchado por un Dios atento.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 52,
+    "titulo": "Andad en el Espíritu",
+    "versiculo": "Digo, pues: Andad en el Espíritu, y no satisfagáis los deseos de la carne.",
+    "cita": "Gálatas 5:16",
+    "reflexion": "Alinear tus deseos con tus valores superiores te dará una libertad que el impulso no ofrece.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 53,
+    "titulo": "Roca de Salvación",
+    "versiculo": "Él solamente es mi roca y mi salvación; es mi refugio, no resbalaré mucho.",
+    "cita": "Salmos 62:2",
+    "reflexion": "Incluso si te tambaleas, el suelo que pisas es firme. No caerás del todo.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Guardar el Corazón",
+    "versiculo": "Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida.",
+    "cita": "Proverbios 4:23",
+    "reflexion": "Tu mundo exterior es un reflejo de tu salud interior. Protege lo que dejas entrar.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 55,
+    "titulo": "Amor Fraternal",
+    "versiculo": "Amaos los unos a los otros con amor fraternal; en cuanto a honra, prefiriéndoos los unos a los otros.",
+    "cita": "Romanos 12:10",
+    "reflexion": "Hoy, busca una oportunidad para poner a alguien más en primer lugar.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 56,
+    "titulo": "Cargas Ligeras",
+    "versiculo": "Porque mi yugo es fácil, y ligera mi carga.",
+    "cita": "Mateo 11:30",
+    "reflexion": "Si te sientes agotado, quizá estás cargando cosas que Él nunca te pidió que llevaras.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 57,
+    "titulo": "Llamados a Libertad",
+    "versiculo": "Porque vosotros, hermanos, a libertad fuisteis llamados.",
+    "cita": "Gálatas 5:13",
+    "reflexion": "La libertad es un regalo que debe usarse para servir, no para esclavizarse a uno mismo.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 58,
+    "titulo": "Nuevas Criaturas",
+    "versiculo": "De modo que si alguno está en Cristo, nueva criatura es; las cosas viejas pasaron.",
+    "cita": "2 Corintios 5:17",
+    "reflexion": "Tu pasado ya no te define. Hoy puedes actuar desde tu nueva identidad de paz.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 59,
+    "titulo": "Sed de Dios",
+    "versiculo": "Como el ciervo brama por las corrientes de las aguas, así clama por ti, oh Dios, el alma mía.",
+    "cita": "Salmos 42:1",
+    "reflexion": "Reconocer que necesitas algo más grande que tú mismo es el primer paso para ser saciado.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 60,
+    "titulo": "Permanencia del Amor",
+    "versiculo": "Y ahora permanecen la fe, la esperanza y el amor... pero el mayor de ellos es el amor.",
+    "cita": "1 Corintios 13:13",
+    "reflexion": "Al final del día, lo único que realmente quedará es cuánto amor pusiste en lo que hiciste.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 61,
+    "titulo": "No Tengas Miedo",
+    "versiculo": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.",
+    "cita": "Isaías 41:10",
+    "reflexion": "El miedo es una sombra que se desvanece cuando recuerdas quién camina a tu lado.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 62,
+    "titulo": "Delicias del Corazón",
+    "versiculo": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón.",
+    "cita": "Salmos 37:4",
+    "reflexion": "Cuando tu mayor alegría es Su presencia, tus deseos se alinean naturalmente con Su voluntad.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 63,
+    "titulo": "Gratitud Continua",
+    "versiculo": "Estad siempre gozosos. Orad sin cesar. Dad gracias en todo.",
+    "cita": "1 Tesalonicenses 5:16-18",
+    "reflexion": "La gratitud no es solo para los buenos momentos; es la llave que abre la paz en los difíciles.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 64,
+    "titulo": "Planes Seguros",
+    "versiculo": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+    "cita": "Proverbios 16:3",
+    "reflexion": "Antes de actuar, entrega tu intención. La claridad mental viene tras la entrega espiritual.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 65,
+    "titulo": "Basta Cada Día",
+    "versiculo": "No os afanéis por el día de mañana, porque el día de mañana traerá su afán. Basta a cada día su propio mal.",
+    "cita": "Mateo 6:34",
+    "reflexion": "Vive en el presente. Dios ya está en tu mañana, así que tú puedes enfocarte en amar hoy.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 66,
+    "titulo": "Meditación Constante",
+    "versiculo": "Sino que en la ley de Jehová está su delicia, y en su ley medita de día y de noche.",
+    "cita": "Salmos 1:2",
+    "reflexion": "Lo que piensas constantemente moldea quien eres. Elige pensamientos que den vida.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 67,
+    "titulo": "Si Dios con Nosotros",
+    "versiculo": "¿Qué, pues, diremos a esto? Si Dios es por nosotros, ¿quién contra nosotros?",
+    "cita": "Romanos 8:31",
+    "reflexion": "No cuentes el tamaño de tus gigantes, cuenta el tamaño de tu respaldo.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 68,
+    "titulo": "Compañía Eterna",
+    "versiculo": "Y he aquí yo estoy con vosotros todos los días, hasta el fin del mundo.",
+    "cita": "Mateo 28:20",
+    "reflexion": "Nunca hay un momento de 'soledad absoluta' para quien confía en esta promesa.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 69,
+    "titulo": "Mirar hacia Arriba",
+    "versiculo": "Alzaré mis ojos a los montes; ¿De dónde vendrá mi socorro? Mi socorro viene de Jehová.",
+    "cita": "Salmos 121:1-2",
+    "reflexion": "Cuando el suelo sea inestable, levanta la mirada. Tu ayuda viene de más arriba de tus problemas.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 70,
+    "titulo": "Acercarse a la Luz",
+    "versiculo": "Acercaos a Dios, y él se acercará a vosotros.",
+    "cita": "Santiago 4:8",
+    "reflexion": "No esperes a estar 'perfecto' para buscarlo; la cercanía misma es lo que te perfecciona.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 71,
+    "titulo": "Inmutable",
+    "versiculo": "Jesucristo es el mismo ayer, y hoy, y por los siglos.",
+    "cita": "Hebreos 13:8",
+    "reflexion": "En un mundo que cambia constantemente, tu ancla está en lo que nunca cambia.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 72,
+    "titulo": "La Respuesta Suave",
+    "versiculo": "La blanda respuesta quita la ira; mas la palabra áspera hace subir el furor.",
+    "cita": "Proverbios 15:1",
+    "reflexion": "Hoy tienes el poder de apagar incendios con tu tono de voz. Elige la mansedumbre.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 73,
+    "titulo": "Obra Maravillosa",
+    "versiculo": "Te alabaré; porque formidables, maravillosas son tus obras; estoy maravillado.",
+    "cita": "Salmos 139:14",
+    "reflexion": "Mírate al espejo con respeto. Eres una creación diseñada con propósito y detalle.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 74,
+    "titulo": "Fuera el Temor",
+    "versiculo": "En el amor no hay temor, sino que el perfecto amor echa fuera el temor.",
+    "cita": "1 Juan 4:18",
+    "reflexion": "Cuando te sientes profundamente amado, el miedo a fallar o al juicio desaparece.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 75,
+    "titulo": "Mirada Elevada",
+    "versiculo": "Poned la mira en las cosas de arriba, no en las de la tierra.",
+    "cita": "Colosenses 3:2",
+    "reflexion": "No te pierdas en los detalles temporales; mantén la perspectiva de lo que es eterno.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 76,
+    "titulo": "Este es el Día",
+    "versiculo": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+    "cita": "Salmos 118:24",
+    "reflexion": "Hoy no es un día más, es un regalo hecho a medida para ti. Encuentra el motivo para celebrar.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 77,
+    "titulo": "Llenura de Esperanza",
+    "versiculo": "Y el Dios de esperanza os llene de todo gozo y paz en el creer.",
+    "cita": "Romanos 15:13",
+    "reflexion": "La esperanza no es un sentimiento, es un combustible que te permite avanzar con alegría.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 78,
+    "titulo": "Caminar por Fe",
+    "versiculo": "Porque por fe andamos, no por vista.",
+    "cita": "2 Corintios 5:7",
+    "reflexion": "No necesitas ver el suelo para saber que hay un camino. Confía en lo que sabes, no solo en lo que ves.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 79,
+    "titulo": "Luz y Salvación",
+    "versiculo": "Jehová es mi luz y mi salvación; ¿de quién temeré?",
+    "cita": "Salmos 27:1",
+    "reflexion": "Si tienes la luz encendida por dentro, ninguna oscuridad exterior puede asustarte.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 80,
+    "titulo": "Llamados a Servir",
+    "versiculo": "Estad, pues, firmes en la libertad con que Cristo nos hizo libres.",
+    "cita": "Gálatas 5:1",
+    "reflexion": "Tu libertad es un terreno sagrado. No permitas que el pasado te vuelva a encadenar.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 81,
+    "titulo": "Cuidado sin Medida",
+    "versiculo": "Mirad las aves del cielo, que no siembran, ni siegan... y vuestro Padre celestial las alimenta.",
+    "cita": "Mateo 6:26",
+    "reflexion": "Si Él cuida de las criaturas más pequeñas, ¿cómo no va a cuidar de ti, que eres Su mayor tesoro?",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 82,
+    "titulo": "Correr con Paciencia",
+    "versiculo": "Corramos con paciencia la carrera que tenemos por delante, puestos los ojos en Jesús.",
+    "cita": "Hebreos 12:1-2",
+    "reflexion": "La vida no es una carrera de velocidad, sino de resistencia y enfoque. No mires a los lados, mira hacia la meta.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 83,
+    "titulo": "Camino Encomendado",
+    "versiculo": "Encomienda a Jehová tu camino, y confía en él; y él hará.",
+    "cita": "Salmos 37:5",
+    "reflexion": "Tu responsabilidad es confiar; la Suya es actuar. Suelta el control y deja que el Maestro trabaje.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 84,
+    "titulo": "Salida en la Prueba",
+    "versiculo": "Fiel es Dios, que no os dejará ser tentados más de lo que podéis resistir... dará también la salida.",
+    "cita": "1 Corintios 10:13",
+    "reflexion": "Ninguna situación es un callejón sin salida cuando Dios es quien sostiene la puerta.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 85,
+    "titulo": "Bondad Recíproca",
+    "versiculo": "Antes sed benignos unos con otros, misericordiosos, perdonándoos unos a otros.",
+    "cita": "Efesios 4:32",
+    "reflexion": "El perdón es el regalo que te haces a ti mismo para caminar ligero. Sé generoso con la gracia.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 86,
+    "titulo": "Presencia en la Unión",
+    "versiculo": "Porque donde están dos o tres congregados en mi nombre, allí estoy yo en medio de ellos.",
+    "cita": "Mateo 18:20",
+    "reflexion": "Nunca subestimes el poder de unirse con otros en un mismo propósito; hay una fuerza especial en la comunidad.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 87,
+    "titulo": "Corazón Blindado",
+    "versiculo": "En mi corazón he guardado tus dichos, para no pecar contra ti.",
+    "cita": "Salmos 119:11",
+    "reflexion": "Lo que guardas en tu interior determina lo que sale al exterior. Atesora palabras que den vida.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 88,
+    "titulo": "Vencer con el Bien",
+    "versiculo": "No seas vencido de lo malo, sino vence con el bien el mal.",
+    "cita": "Romanos 12:21",
+    "reflexion": "La mejor respuesta a la negatividad es una actitud positiva e inquebrantable.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 89,
+    "titulo": "Prudencia al Hablar",
+    "versiculo": "El que tarda en airarse es grande de entendimiento; mas el que es impaciente de espíritu enaltece la necedad.",
+    "cita": "Proverbios 14:29",
+    "reflexion": "La sabiduría se mide por los segundos que piensas antes de reaccionar. Elige la calma.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 90,
+    "titulo": "Servicio con Gozo",
+    "versiculo": "Servid a Jehová con alegría; venid ante su presencia con regocijo.",
+    "cita": "Salmos 100:2",
+    "reflexion": "Que tu servicio a los demás no sea una carga, sino una expresión de la alegría que ya llevas dentro.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 91,
+    "titulo": "Dador Alegre",
+    "versiculo": "Cada uno dé como propuso en su corazón... porque Dios ama al dador alegre.",
+    "cita": "2 Corintios 9:7",
+    "reflexion": "La generosidad no se trata de la cantidad, sino de la libertad y el amor con que se entrega.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 92,
+    "titulo": "Peticiones en Paz",
+    "versiculo": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios.",
+    "cita": "Filipenses 4:6",
+    "reflexion": "Transforma cada preocupación en una oración. Es el intercambio más rentable que puedes hacer.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 93,
+    "titulo": "Amor en Sacrificio",
+    "versiculo": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito.",
+    "cita": "Juan 3:16",
+    "reflexion": "El amor se demuestra con hechos. Recuerda hoy que eres amado con el sacrificio más grande de la historia.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 94,
+    "titulo": "Estar Quieto",
+    "versiculo": "Estad quietos, y conoced que yo soy Dios.",
+    "cita": "Salmos 46:10",
+    "reflexion": "A veces, lo más espiritual que puedes hacer es dejar de correr y simplemente reconocer Su soberanía.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 95,
+    "titulo": "Humildad que Eleva",
+    "versiculo": "Humillaos delante del Señor, y él os exaltará.",
+    "cita": "Santiago 4:10",
+    "reflexion": "Bajar el ego es la única forma de que Dios pueda elevar tu propósito. La grandeza empieza abajo.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 96,
+    "titulo": "Amor de Hecho",
+    "versiculo": "No amemos de palabra ni de lengua, sino de hecho y en verdad.",
+    "cita": "1 Juan 3:18",
+    "reflexion": "Que tus acciones hoy hablen tan fuerte que no haga falta que digas una sola palabra sobre tus valores.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 97,
+    "titulo": "Rostro Radiante",
+    "versiculo": "El corazón alegre hermosea el rostro; mas por el dolor del corazón el espíritu se abate.",
+    "cita": "Proverbios 15:13",
+    "reflexion": "La verdadera belleza nace de una paz interior que no puede evitar reflejarse en tu mirada.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 98,
+    "titulo": "Bendición en todo Tiempo",
+    "versiculo": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca.",
+    "cita": "Salmos 34:1",
+    "reflexion": "Alabar en la cima es fácil; alabar en el valle es lo que realmente fortalece el alma.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 99,
+    "titulo": "Vida en Abundancia",
+    "versiculo": "Yo he venido para que tengan vida, y para que la tengan en abundancia.",
+    "cita": "Juan 10:10",
+    "reflexion": "No estás aquí solo para sobrevivir, sino para florecer y disfrutar de la plenitud que se te ha regalado.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 100,
+    "titulo": "Promesa Final",
+    "versiculo": "Enjugará Dios toda lágrima de los ojos de ellos; y ya no habrá muerte, ni habrá más llanto.",
+    "cita": "Apocalipsis 21:4",
+    "reflexion": "Cualquier dolor presente es temporal comparado con la eternidad de consuelo que nos espera.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 101,
+    "titulo": "Roca Inamovible",
+    "versiculo": "Jehová, roca mía y castillo mío, y mi libertador; Dios mío, fortaleza mía, en él confiaré.",
+    "cita": "Salmos 18:2",
+    "reflexion": "Cuando todo a tu alrededor parezca inestable, recuerda que tu fundamento es eterno y seguro.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 102,
+    "titulo": "Confianza en la Aflicción",
+    "versiculo": "En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.",
+    "cita": "Juan 16:33",
+    "reflexion": "Tus batallas de hoy ya tienen un vencedor. No peleas para ganar, sino desde la victoria.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 103,
+    "titulo": "Fuente de Sabiduría",
+    "versiculo": "Porque Jehová da la sabiduría, y de su boca viene el conocimiento y la inteligencia.",
+    "cita": "Proverbios 2:6",
+    "reflexion": "Antes de buscar respuestas en el mundo, inclina tu corazón a la fuente original de toda verdad.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 104,
+    "titulo": "Amor que Responde",
+    "versiculo": "Nosotros le amamos a él, porque él nos amó primero.",
+    "cita": "1 Juan 4:19",
+    "reflexion": "Tu capacidad de amar es una respuesta al inmenso amor que ya ha sido derramado sobre ti.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 105,
+    "titulo": "Alegres en la Esperanza",
+    "versiculo": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+    "cita": "Romanos 12:12",
+    "reflexion": "La constancia es el puente entre tu situación actual y la promesa que esperas.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 106,
+    "titulo": "Luz de la Vida",
+    "versiculo": "Yo soy la luz del mundo; el que me sigue, no andará en tinieblas, sino que tendrá la luz de la vida.",
+    "cita": "Juan 8:12",
+    "reflexion": "Seguir el camino correcto es la mejor forma de disipar cualquier sombra de duda.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 107,
+    "titulo": "Fe que Agrada",
+    "versiculo": "Pero sin fe es imposible agradar a Dios; porque es necesario que el que se acerca a Dios crea que le hay.",
+    "cita": "Hebreos 11:6",
+    "reflexion": "Acercarte con confianza es el primer paso para ver lo extraordinario en tu cotidianeidad.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 108,
+    "titulo": "Padre de Misericordias",
+    "versiculo": "Bendito sea el Dios... Padre de misericordias y Dios de todo consolación.",
+    "cita": "2 Corintios 1:3",
+    "reflexion": "No importa cuán duro haya sido el camino, siempre hay un consuelo nuevo esperando por ti.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 109,
+    "titulo": "Obra Maestra",
+    "versiculo": "Porque somos hechura suya, creados para buenas obras, las cuales Dios preparó de antemano.",
+    "cita": "Efesios 2:10",
+    "reflexion": "No eres un accidente. Fuiste diseñado con precisión para un propósito que solo tú puedes cumplir.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 110,
+    "titulo": "Caminar en Rectitud",
+    "versiculo": "Jehová, ¿quién habitará en tu tabernáculo? El que anda en integridad y hace justicia.",
+    "cita": "Salmos 15:1-2",
+    "reflexion": "La paz más profunda se encuentra cuando tus acciones coinciden con tus valores más altos.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 111,
+    "titulo": "Mejor es el Fin",
+    "versiculo": "Mejor es el fin del negocio que su principio; mejor es el sufrido de espíritu que el altivo de espíritu.",
+    "cita": "Eclesiastés 7:8",
+    "reflexion": "No te desanimes por un comienzo lento. Lo que importa es la fidelidad con la que termines.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 112,
+    "titulo": "Hombre de Valor",
+    "versiculo": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.",
+    "cita": "1 Corintios 16:13",
+    "reflexion": "La madurez espiritual se demuestra en la firmeza ante la adversidad y la vigilancia del corazón.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 113,
+    "titulo": "Gratitud Eterna",
+    "versiculo": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "cita": "Salmos 107:1",
+    "reflexion": "Si hoy no encuentras qué pedir, tienes motivos de sobra para dar gracias.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 114,
+    "titulo": "Sueño en Paz",
+    "versiculo": "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir confiado.",
+    "cita": "Salmos 4:8",
+    "reflexion": "Entrega tus preocupaciones antes de cerrar los ojos; el mundo está en manos más capaces que las tuyas.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 115,
+    "titulo": "Crecimiento Constante",
+    "versiculo": "Antes bien, creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo.",
+    "cita": "2 Pedro 3:18",
+    "reflexion": "El estancamiento no es una opción para el alma. Cada día es una oportunidad para aprender algo nuevo.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 116,
+    "titulo": "Sanador de Heridas",
+    "versiculo": "Él sana a los quebrantados de corazón, y venda sus heridas.",
+    "cita": "Salmos 147:3",
+    "reflexion": "No intentes ocultar tus cicatrices; son el lugar donde la gracia de Dios se hizo más visible.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 117,
+    "titulo": "Alma Generosa",
+    "versiculo": "El alma generosa será prosperada; y el que saciare, él también será saciado.",
+    "cita": "Proverbios 11:25",
+    "reflexion": "La verdadera abundancia no es lo que acumulas, sino lo que eres capaz de compartir.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 118,
+    "titulo": "Verdad Eterna",
+    "versiculo": "La suma de tu palabra es verdad, y eterno es todo juicio de tu justicia.",
+    "cita": "Salmos 119:160",
+    "reflexion": "En un mundo de opiniones cambiantes, apóyate en lo que ha permanecido firme por siglos.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 119,
+    "titulo": "Torre Fuerte",
+    "versiculo": "Torre fuerte es el nombre de Jehová; a él correrá el justo, y será levantado.",
+    "cita": "Proverbios 18:10",
+    "reflexion": "Cuando te sientas vulnerable, busca refugio en la oración. Es el lugar más alto y seguro.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 120,
+    "titulo": "Eternidad en el Corazón",
+    "versiculo": "Todo lo hizo hermoso en su tiempo; y ha puesto eternidad en el corazón de ellos.",
+    "cita": "Eclesiastés 3:11",
+    "reflexion": "Esa sensación de que hay algo más no es casualidad; estás diseñado para lo infinito.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 121,
+    "titulo": "Corazón Valiente",
+    "versiculo": "Esforzaos todos vosotros los que esperáis en Jehová, y tome vuestro corazón aliento.",
+    "cita": "Salmos 31:24",
+    "reflexion": "La esperanza no es un sentimiento pasivo; es la fuerza que permite a tu corazón seguir latiendo con valor.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 122,
+    "titulo": "Misericordia en Acción",
+    "versiculo": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia.",
+    "cita": "Mateo 5:7",
+    "reflexion": "Lo que das al mundo es lo que eventualmente regresa a ti. Siembra compasión hoy.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 123,
+    "titulo": "Edificar al Prójimo",
+    "versiculo": "Por lo cual, animaos unos a otros, y edificaos unos a otros, así como lo hacéis.",
+    "cita": "1 Tesalonicenses 5:11",
+    "reflexion": "Tus palabras tienen el poder de ser ladrillos para construir o piedras para derribar. Elige construir.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 124,
+    "titulo": "Pureza de Pensamiento",
+    "versiculo": "Sean gratos los dichos de mi boca y la meditación de mi corazón delante de ti.",
+    "cita": "Salmos 19:14",
+    "reflexion": "Que tu mundo interior sea tan limpio que no temas que nadie pueda leer tus pensamientos.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 125,
+    "titulo": "Paz Inalterable",
+    "versiculo": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera.",
+    "cita": "Isaías 26:3",
+    "reflexion": "La paz no es algo que encuentras, es algo en lo que te mantienes cuando enfocas tu mente correctamente.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 126,
+    "titulo": "Hacer el Bien",
+    "versiculo": "No te niegues a hacer el bien a quien es debido, cuando tuvieras poder para hacerlo.",
+    "cita": "Proverbios 3:27",
+    "reflexion": "Si tienes la oportunidad de ayudar hoy, no lo postergues. El momento de la bondad es siempre ahora.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 127,
+    "titulo": "Bajo la Sombra",
+    "versiculo": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+    "cita": "Salmos 91:1",
+    "reflexion": "No hay lugar más seguro que estar cerca de quien tiene el control de todas las cosas.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 128,
+    "titulo": "Presencia Constante",
+    "versiculo": "No te desampararé, ni te dejaré.",
+    "cita": "Hebreos 13:5",
+    "reflexion": "Incluso cuando el silencio parece largo, la promesa de Su compañía sigue vigente y activa.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 129,
+    "titulo": "Más que Vencedores",
+    "versiculo": "Antes, en todas estas cosas somos más que vencedores por medio de aquel que nos amó.",
+    "cita": "Romanos 8:37",
+    "reflexion": "No solo sobrevives a las pruebas, sales de ellas con un propósito más fuerte y una fe renovada.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 130,
+    "titulo": "Esperar con Ansia",
+    "versiculo": "Esperé yo a Jehová, esperó mi alma; en su palabra he esperado.",
+    "cita": "Salmos 130:5",
+    "reflexion": "Aprende a descansar en la espera. Lo que viene de camino es mejor que lo que intentas forzar hoy.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 131,
+    "titulo": "Vestidura de Bondad",
+    "versiculo": "Vestíos, pues... de entrañable misericordia, de benignidad, de humildad, de mansedumbre.",
+    "cita": "Colosenses 3:12",
+    "reflexion": "Tu mejor atuendo hoy no es lo que llevas puesto, sino la actitud con la que tratas a los demás.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 132,
+    "titulo": "Aprendizaje y Mansedumbre",
+    "versiculo": "Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón.",
+    "cita": "Mateo 11:29",
+    "reflexion": "La humildad no es debilidad; es la fuerza bajo control que permite aprender y crecer sin orgullo.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 133,
+    "titulo": "Dirección Matutina",
+    "versiculo": "Hazme oír por la mañana tu misericordia, porque en ti he confiado.",
+    "cita": "Salmos 143:8",
+    "reflexion": "Cada mañana es una señal de que todavía hay un camino que recorrer y una guía dispuesta a acompañarte.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 134,
+    "titulo": "Pasos Ordenados",
+    "versiculo": "El corazón del hombre piensa su camino; mas Jehová endereza sus pasos.",
+    "cita": "Proverbios 16:9",
+    "reflexion": "Planifica con inteligencia, pero mantén la flexibilidad para que Dios te sorprenda con algo mejor.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 135,
+    "titulo": "Razón de la Esperanza",
+    "versiculo": "Estad siempre preparados para presentar defensa... ante todo el que os demande razón de la esperanza.",
+    "cita": "1 Peter 3:15",
+    "reflexion": "Que tu vida sea tan distinta que la gente se pregunte de dónde sacas esa paz inexplicable.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 136,
+    "titulo": "Paciencia y Consolación",
+    "versiculo": "Pero el Dios de la paciencia y de la consolación os dé entre vosotros un mismo sentir.",
+    "cita": "Romanos 15:5",
+    "reflexion": "La armonía con los demás comienza cuando permitimos que la paciencia de Dios trabaje en nosotros.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 137,
+    "titulo": "Gran Paz",
+    "versiculo": "Mucha paz tienen los que aman tu ley, y no hay para ellos tropiezo.",
+    "cita": "Salmos 119:165",
+    "reflexion": "Seguir los principios correctos es como caminar por un sendero iluminado: es difícil tropezar.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 138,
+    "titulo": "Soportar con Amor",
+    "versiculo": "Con toda humildad y mansedumbre, soportándoos con paciencia los unos a los otros en amor.",
+    "cita": "Ephesians 4:2",
+    "reflexion": "El amor real se prueba cuando decidimos ser pacientes con las imperfecciones ajenas.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 139,
+    "titulo": "Banquete Continuo",
+    "versiculo": "El de corazón alegre tiene un banquete continuo.",
+    "cita": "Proverbios 15:15",
+    "reflexion": "Tu satisfacción no depende de lo que hay sobre la mesa, sino de lo que hay dentro de tu pecho.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 140,
+    "titulo": "Bendición sobre Ti",
+    "versiculo": "Jehová te bendiga, y te guarde; Jehová haga resplandecer su rostro sobre ti.",
+    "cita": "Números 6:24-25",
+    "reflexion": "Recibe hoy el favor divino. Que Su luz sea tu guía y Su presencia tu mayor protección.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 141,
+    "titulo": "La Fuerza del Débil",
+    "versiculo": "Diga el débil: Fuerte soy.",
+    "cita": "Joel 3:10",
+    "reflexion": "Tu verdadera fortaleza no proviene de tus recursos propios, sino de la fe que te sostiene en la dificultad.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 142,
+    "titulo": "Oído Atento",
+    "versiculo": "Jehová está lejos de los impíos; pero él oye la oración de los justos.",
+    "cita": "Proverbios 15:29",
+    "reflexion": "Habla con confianza; no hay mensaje sincero que se pierda en el camino hacia el cielo.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 143,
+    "titulo": "Manantial de Vida",
+    "versiculo": "Porque contigo está el manantial de la vida; en tu luz veremos la luz.",
+    "cita": "Salmos 36:9",
+    "reflexion": "Busca la fuente que nunca se agota para saciar tu necesidad de propósito y dirección.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 144,
+    "titulo": "Cosecha de Justicia",
+    "versiculo": "Y el fruto de justicia se siembra en paz para aquellos que hacen la paz.",
+    "cita": "Santiago 3:18",
+    "reflexion": "Lo que hagas hoy con serenidad y bondad, mañana florecerá como un testimonio de justicia.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 145,
+    "titulo": "El Gran Alfarero",
+    "versiculo": "He aquí que como el barro en la mano del alfarero, así sois vosotros en mi mano.",
+    "cita": "Jeremías 18:6",
+    "reflexion": "Permite que las manos del Maestro moldeen tus experiencias hasta convertirlas en una obra de arte.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 146,
+    "titulo": "Sin Cargas del Pasado",
+    "versiculo": "No os acordéis de las cosas pasadas, ni traigáis a memoria las cosas antiguas.",
+    "cita": "Isaías 43:18",
+    "reflexion": "Suelta el ancla de tus errores de ayer para poder navegar libremente hacia el mañana que te espera.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 147,
+    "titulo": "Dulzura en el Alma",
+    "versiculo": "¡Cuán dulces son a mi paladar tus palabras! Más que la miel a mi boca.",
+    "cita": "Salmos 119:103",
+    "reflexion": "Nutre tu mente con verdades que traigan salud y buen sabor a tus pensamientos diarios.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 148,
+    "titulo": "Unidad y Armonía",
+    "versiculo": "¡Mirad cuán bueno y cuán delicioso es habitar los hermanos juntos en armonía!",
+    "cita": "Salmos 133:1",
+    "reflexion": "La paz colectiva siempre comienza con tu disposición individual de ser un agente de unión.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 149,
+    "titulo": "Permanecer Firme",
+    "versiculo": "Por tanto, tomad toda la armadura de Dios... y habiendo acabado todo, estad firmes.",
+    "cita": "Efesios 6:13",
+    "reflexion": "A veces la mayor victoria no consiste en avanzar rápido, sino en simplemente no retroceder.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 150,
+    "titulo": "Corazón que Libera",
+    "versiculo": "Soportándoos unos a otros... de la manera que Cristo os perdonó, así también hacedlo vosotros.",
+    "cita": "Colosenses 3:13",
+    "reflexion": "El perdón es la llave que libera al prisionero, y ese prisionero sueles ser tú mismo.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 151,
+    "titulo": "Vencer con el Bien",
+    "versiculo": "No seas vencido de lo malo, sino vence con el bien el mal.",
+    "cita": "Romanos 12:21",
+    "reflexion": "La luz no pelea contra la oscuridad; simplemente brilla y la oscuridad deja de existir.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 152,
+    "titulo": "Búsqueda Sincera",
+    "versiculo": "Me buscaréis y me hallaréis, porque me buscaréis de todo vuestro corazón.",
+    "cita": "Jeremías 29:13",
+    "reflexion": "Dios no está escondido de ti; está esperando que tu deseo de encontrarlo sea tu mayor prioridad.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 153,
+    "titulo": "Refugio del Corazón",
+    "versiculo": "Confiad en él en todo tiempo, oh pueblos; derramad delante de él vuestro corazón.",
+    "cita": "Salmos 62:8",
+    "reflexion": "No guardes nada para ti; desahogar tu alma con quien te ama es el primer paso de tu sanidad.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 154,
+    "titulo": "Luz que Despeja sombras",
+    "versiculo": "El que me sigue no andará en tinieblas, sino que tendrá la luz de la vida.",
+    "cita": "Juan 8:12",
+    "reflexion": "Sigue los principios de la verdad y las sombras del miedo se quedarán naturalmente atrás.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 155,
+    "titulo": "Gozo en la Presencia",
+    "versiculo": "Tú me mostrarás la senda de la vida; en tu presencia hay plenitud de gozo.",
+    "cita": "Salmos 16:11",
+    "reflexion": "La felicidad es pasajera y depende de las cosas; el gozo es permanente y depende de Su compañía.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 156,
+    "titulo": "Libertad Real",
+    "versiculo": "Y conoceréis la verdad, y la verdad os hará libres.",
+    "cita": "Juan 8:32",
+    "reflexion": "Ser honesto contigo mismo y con tus valores es el único camino hacia la libertad auténtica.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 157,
+    "titulo": "Cuidado Paternal",
+    "versiculo": "Como el padre se compadece de los hijos, se compadece Jehová de los que le temen.",
+    "cita": "Salmos 103:13",
+    "reflexion": "Eres visto con ojos de profunda compasión, no de juicio. Puedes descansar en ese amor hoy.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 158,
+    "titulo": "Fuerza en la Quietud",
+    "versiculo": "En quietud y en confianza será vuestra fortaleza.",
+    "cita": "Isaías 30:15",
+    "reflexion": "A veces el mayor acto de fe no es correr más rápido, sino saber cuándo detenerse y confiar.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 159,
+    "titulo": "Fidelidad Renovada",
+    "versiculo": "Nuevas son cada mañana; grande es tu fidelidad.",
+    "cita": "Lamentaciones 3:23",
+    "reflexion": "Hoy no tienes que cargar con los fallos de ayer; cada amanecer es una oportunidad de empezar de cero.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 160,
+    "titulo": "Ancla del Alma",
+    "versiculo": "La cual tenemos como segura y firme ancla del alma, y que penetra hasta dentro del velo.",
+    "cita": "Hebreos 6:19",
+    "reflexion": "Aunque la tormenta de la vida sea fuerte, tu esperanza está amarrada a lo que es eterno.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 161,
+    "titulo": "Pasos con Propósito",
+    "versiculo": "Reconócelo en todos tus caminos, y él enderezará tus veredas.",
+    "cita": "Proverbios 3:6",
+    "reflexion": "No tomes decisiones a ciegas; invita a la sabiduría a participar en tus planes y verás cómo el camino se despeja.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 162,
+    "titulo": "Hacer el Bien",
+    "versiculo": "Confía en Jehová, y haz el bien; y habitarás en la tierra, y te apacentarás de la verdad.",
+    "cita": "Salmos 37:3",
+    "reflexion": "La confianza se demuestra en la acción. Mantente ocupado haciendo lo correcto y lo necesario llegará a ti.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 163,
+    "titulo": "Luz que Inspira",
+    "versiculo": "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras.",
+    "cita": "Mateo 5:16",
+    "reflexion": "Tu vida es el único libro que algunas personas leerán sobre la fe. Que tus acciones sean un mensaje de esperanza.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 164,
+    "titulo": "Entrega Diaria",
+    "versiculo": "Presentéis vuestros cuerpos en sacrificio vivo, santo, agradable a Dios, que es vuestro culto racional.",
+    "cita": "Romanos 12:1",
+    "reflexion": "La espiritualidad real no ocurre solo en un templo, sino en la forma en que tratas a los demás en lo cotidiano.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 165,
+    "titulo": "Provisión Fiel",
+    "versiculo": "Mi Dios, pues, suplirá todo lo que os falte conforme a sus riquezas en gloria.",
+    "cita": "Filipenses 4:19",
+    "reflexion": "No mires tu cuenta bancaria o tus recursos limitados; mira la generosidad de quien sostiene el universo.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 166,
+    "titulo": "Examen del Alma",
+    "versiculo": "Examíname, oh Dios, y conoce mi corazón; pruébame y conoce mi pensamientos.",
+    "cita": "Salmos 139:23",
+    "reflexion": "La honestidad radical con uno mismo es el primer paso para una transformación profunda y duradera.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 167,
+    "titulo": "Control del Enojo",
+    "versiculo": "Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo.",
+    "cita": "Efesios 4:26",
+    "reflexion": "Sentir molestia es humano, pero permitir que el resentimiento duerma contigo es una elección que puedes evitar.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 168,
+    "titulo": "Prontitud para Oír",
+    "versiculo": "Todo hombre sea pronto para oír, tardo para hablar, tardo para airarse.",
+    "cita": "Santiago 1:19",
+    "reflexion": "Tienes dos oídos y una sola boca por una razón: la sabiduría entra por la escucha atenta y el silencio prudente.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 169,
+    "titulo": "Escondedero Seguro",
+    "versiculo": "Mi escondedero y mi escudo eres tú; en tu palabra he esperado.",
+    "cita": "Salmos 119:114",
+    "reflexion": "Cuando las críticas o los problemas arrecien, busca refugio en las verdades que no cambian con el tiempo.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 170,
+    "titulo": "Palabra Eterna",
+    "versiculo": "Sécase la hierba, marchítase la flor; mas la palabra del Dios nuestro permanece para siempre.",
+    "cita": "Isaías 40:8",
+    "reflexion": "No pongas tu esperanza en lo que se marchita. Enfócate en lo que trasciende las modas y las épocas.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  },
+  {
+    "id": 171,
+    "titulo": "Yugo Ligero",
+    "versiculo": "Llevad mi yugo sobre vosotros... y hallaréis descanso para vuestras almas.",
+    "cita": "Mateo 11:29",
+    "reflexion": "Si la vida espiritual se siente como una carga pesada, quizá estás intentando llevarla bajo tus propias reglas.",
+    "imagen": "assets/img/pastoral-1.jpg"
+  },
+  {
+    "id": 172,
+    "titulo": "Obra en Progreso",
+    "versiculo": "El que comenzó en vosotros la buena obra, la perfeccionará hasta el día de Jesucristo.",
+    "cita": "Filipenses 1:6",
+    "reflexion": "Ten paciencia contigo mismo. No eres un producto terminado, sino una obra maestra en pleno proceso de creación.",
+    "imagen": "assets/img/pastoral-2.jpg"
+  },
+  {
+    "id": 173,
+    "titulo": "Aguarda con Valor",
+    "versiculo": "Aguarda a Jehová; esfuérzate, y aliéntese tu corazón; sí, espera a Jehová.",
+    "cita": "Salmos 27:14",
+    "reflexion": "La espera no es un vacío; es el espacio donde se forja el carácter y se fortalece la convicción.",
+    "imagen": "assets/img/pastoral-3.jpg"
+  },
+  {
+    "id": 174,
+    "titulo": "Trabajo con Sentido",
+    "versiculo": "Sabiendo que vuestro trabajo en el Señor no es en vano.",
+    "cita": "1 Corintios 15:58",
+    "reflexion": "Nada de lo que hagas con amor y por el bien de otros cae en saco roto. Todo tiene un eco en la eternidad.",
+    "imagen": "assets/img/pastoral-4.jpg"
+  },
+  {
+    "id": 175,
+    "titulo": "Corazón Limpio",
+    "versiculo": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí.",
+    "cita": "Salmos 51:10",
+    "reflexion": "Más que una mente brillante, busca un corazón transparente. La rectitud de espíritu es la brújula del éxito real.",
+    "imagen": "assets/img/pastoral-5.jpg"
+  },
+  {
+    "id": 176,
+    "titulo": "Plenitud de Gozo",
+    "versiculo": "El Dios de esperanza os llene de todo gozo y paz en el creer.",
+    "cita": "Romanos 15:13",
+    "reflexion": "El gozo no es algo que fabricas, es algo de lo que eres llenado cuando decides confiar plenamente.",
+    "imagen": "assets/img/pastoral-6.jpg"
+  },
+  {
+    "id": 177,
+    "titulo": "Éxito Verdadero",
+    "versiculo": "Nunca se apartará de tu boca este libro de la ley... porque entonces harás prosperar tu camino, y todo te saldrá bien.",
+    "cita": "Josué 1:8",
+    "reflexion": "La verdadera prosperidad nace de la coherencia entre lo que crees, lo que dices y lo que haces.",
+    "imagen": "assets/img/pastoral-7.jpg"
+  },
+  {
+    "id": 178,
+    "titulo": "Gratitud Infinita",
+    "versiculo": "Alabad a Jehová, porque él es bueno; porque para siempre es su misericordia.",
+    "cita": "Salmos 118:1",
+    "reflexion": "Que tu última palabra del día sea siempre de agradecimiento. La bondad recibida supera cualquier reto vivido.",
+    "imagen": "assets/img/pastoral-8.jpg"
+  },
+  {
+    "id": 179,
+    "titulo": "Victoria por la Fe",
+    "versiculo": "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo, nuestra fe.",
+    "cita": "1 Juan 5:4",
+    "reflexion": "No te rindas ante las circunstancias. Tu fe es el factor que inclina la balanza hacia la superación.",
+    "imagen": "assets/img/pastoral-9.jpg"
+  },
+  {
+    "id": 180,
+    "titulo": "Gracia Final",
+    "versiculo": "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén.",
+    "cita": "Apocalipsis 22:21",
+    "reflexion": "Has completado un ciclo, pero el camino continúa. Que el favor inmerecido te acompañe en cada paso que des.",
+    "imagen": "assets/img/pastoral-10.jpg"
+  }
+
+]
