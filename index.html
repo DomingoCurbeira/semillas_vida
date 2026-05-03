@@ -4,61 +4,33 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <!-- Título y Descripción Primaria -->
+    <!-- Título y Descripción -->
     <title>MIRD Cartago - Semillas de Vida</title>
     <meta name="description" content="Mensajes diarios de fe y esperanza. Ministerio Internacional para la Reconciliación con Dios, Cartago, Costa Rica.">
 
-    <!-- 1. ETIQUETAS DE IMAGEN (Prioridad Absoluta) -->
-    <!-- Se incluye el 'itemprop' para asegurar la lectura en versiones antiguas de WhatsApp -->
-    <!-- Incrementamos a v=1.2 para forzar una nueva limpieza de caché -->
-    <meta itemprop="image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.2">
+    <!-- 1. IMAGEN DE ALTA PRIORIDAD (Lo primero que debe ver el bot) -->
+    <meta itemprop="image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.3">
     
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    
-    <!-- IMPORTANTE: Hemos eliminado og:url fijo. 
-         Al no estar presente, WhatsApp asume que la URL compartida (con el ?id=) 
-         es la correcta y no encuentra discrepancias con la imagen. -->
-    
     <meta property="og:title" content="Semillas de Vida - MIRD Cartago">
     <meta property="og:description" content="Recibe tu mensaje de fe diario del Ministerio Internacional para la Reconciliación con Dios.">
     
-    <meta property="og:image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.2">
-    <meta property="og:image:secure_url" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.2">
-    
-    <!-- CORRECCIÓN: Si usas .webp, el type debe ser image/webp (no jpeg) -->
+    <meta property="og:image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.3">
+    <meta property="og:image:secure_url" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.3">
     <meta property="og:image:type" content="image/webp"> 
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-
-    <!-- Elimina o comenta la línea de og:url fija -->
-    <!-- <meta property="og:url" content="https://ministeriointernacionalsemillas.netlify.app/"> -->
-
-    <!-- Añade este pequeño script justo después de abrir el <head> -->
-    <script>
-        const currentUrl = window.location.href;
-        const metaUrl = document.createElement('meta');
-        metaUrl.setAttribute('property', 'og:url');
-        metaUrl.content = currentUrl;
-        document.getElementsByTagName('head')[0].appendChild(metaUrl);
-    </script>
 
     <!-- 2. WhatsApp / Twitter Fallback -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Semillas de Vida - MIRD Cartago">
     <meta name="twitter:description" content="Recibe tu mensaje de fe diario del Ministerio Internacional para la Reconciliación con Dios.">
-    <meta name="twitter:image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.2">
+    <meta name="twitter:image" content="https://ministeriointernacionalsemillas.netlify.app/assets/img/mird-share-v2.webp?v=1.3">
 
-    <!-- 3. Estilos CSS (Carga rápida) -->
+    <!-- 3. Estilos y PWA (Al final) -->
     <link rel="stylesheet" href="css/style.css">
-
-    <!-- 4. Configuración PWA (Al final para evitar conflictos de iconos) -->
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#b45309">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-title" content="MIRD Cartago">
-    <!-- Mantener comentado hasta que el banner funcione al 100% -->
-    <!-- <link rel="apple-touch-icon" href="assets/img/icon-192.png"> -->
 </head>
 <body>
 
